@@ -14,3 +14,8 @@ Currently, two official plugins are available:
 - Install tailwind css
 - Install Daisy UI
 - Add navbar component to App.jsx
+- Seperate the navbar component
+- Add the react router dom for managing the routes
+- Create BrowserRouter > Routes > Route = /Body > RouteChildren
+- Create a outlate in your body component
+- Create a footer
